@@ -1,6 +1,5 @@
 # Bangladesh Region Wise Covid Cases
-Date Created: 11 August 2020 \n
-Leaflet map built in R to show number of COVID cases in Bangladesh by region (as of 11 August 2020)
+Date Created: 11 August 2020. Leaflet map built in R to show number of COVID cases in Bangladesh by region (as of 11 August 2020)
 
 ## Data Collection
 Here # I am going to use Cramstack API (a Bangladeshi Data Company) to pull COVID Data for Bangladesh (region-wise). Please note, I have secured a key from them which I can't show here for privacy reasons.
