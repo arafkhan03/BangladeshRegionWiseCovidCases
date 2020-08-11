@@ -13,9 +13,3 @@ A simple leaflet plot with circle markers were drawn to show the spread of covud
 ## Credit
 I humbly give credit to Cramstack for providing me the access to the API.
 Website: [link to Cramstack!](https://cramstack.com/)
-
-<img
-src=“/Cramstack Logo.png”
-raw=true
-style=“margin-right: 10px;”
-/>
