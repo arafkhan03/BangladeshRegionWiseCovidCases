@@ -15,8 +15,7 @@ I humbly give credit to Cramstack for providing me the access to the API.
 Website: [link to Cramstack!](https://cramstack.com/)
 
 <img
-src=“images/SubPronouns.jpg”
+src=“/Cramstack Logo.png”
 raw=true
-alt=“Subject Pronouns”
 style=“margin-right: 10px;”
 />
